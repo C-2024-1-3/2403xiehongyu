@@ -1,0 +1,5 @@
+﻿  实验二，2.cpp
+C:\Users\abussey\Desktop\第一二次实验报告\实验二，2\实验二，2.cpp(10,8): warning C4804: “<”: 在操作中使用类型“bool”不安全
+C:\Users\abussey\Desktop\第一二次实验报告\实验二，2\实验二，2.cpp(13,13): warning C4804: “<”: 在操作中使用类型“bool”不安全
+C:\Users\abussey\Desktop\第一二次实验报告\实验二，2\实验二，2.cpp(16,13): warning C4804: “<”: 在操作中使用类型“bool”不安全
+  实验二，2.vcxproj -> C:\Users\abussey\Desktop\第一二次实验报告\实验二，2\x64\Debug\实验二，2.exe
