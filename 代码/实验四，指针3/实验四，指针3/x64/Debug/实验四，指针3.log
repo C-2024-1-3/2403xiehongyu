@@ -1,0 +1,5 @@
+﻿  实验四，指针3.cpp
+C:\Users\abussey\Desktop\第三，四次实验报告\代码\实验四，指针3\实验四，指针3.cpp(5,12): warning C4305: “=”: 从“int”到“char”截断
+C:\Users\abussey\Desktop\第三，四次实验报告\代码\实验四，指针3\实验四，指针3.cpp(5,12): warning C4309: “=”: 截断常量值
+C:\Users\abussey\Desktop\第三，四次实验报告\代码\实验四，指针3\实验四，指针3.cpp(9,6): warning C4326: “main”的返回类型应为“int”而非“void”
+  实验四，指针3.vcxproj -> C:\Users\abussey\Desktop\第三，四次实验报告\代码\实验四，指针3\x64\Debug\实验四，指针3.exe
